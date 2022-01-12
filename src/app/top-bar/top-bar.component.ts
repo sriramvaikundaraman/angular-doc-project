@@ -7,6 +7,11 @@ import { Component } from '@angular/core';
 })
 export class TopBarComponent {
 
+  checkout()
+  {
+    window.alert("Kaasu irukudha man :)");
+  }
+
 }
 
 
