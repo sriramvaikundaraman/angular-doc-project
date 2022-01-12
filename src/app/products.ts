@@ -23,6 +23,12 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    id: 4,
+    name: 'Phone Note 5 Pro',
+    price: 499,
+    description: 'A great phone with one of the best processor'
   }
 ];
 
